@@ -1,6 +1,6 @@
 [
 {
-    "range": 40,
+    "range": 400,
     "arrow": "auto",
     "width": [1,1,0],
     "color": ["#ffcccc","#ff0000","none"],

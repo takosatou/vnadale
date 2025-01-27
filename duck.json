@@ -1,6 +1,6 @@
 [
 {
-    "range": 40,
+    "range": 200,
     "arrow": "auto",
     "width": [1,1,0],
     "color": ["#ffcccc","#ff0000","none"],
@@ -12,7 +12,7 @@
     ]
 },
 {
-    "range": 40,
+    "range": 200,
     "arrow": "auto",
     "width": [1,1,0],
     "color": ["#ffcccc","#ff0000","none"],
@@ -22,7 +22,7 @@
     ]
 },
 {
-    "range": 40,
+    "range": 200,
     "arrow": "auto",
     "width": [1,1,0],
     "color": ["#ffcccc","#ff0000","none"],
@@ -32,7 +32,7 @@
     ]
 },
 {
-    "range": 40,
+    "range": 200,
     "arrow": "auto",
     "width": [1,1,0],
     "color": ["#ffcccc","#ff0000","none"],
