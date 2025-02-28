@@ -1,8 +1,0 @@
-{
-    "eyss": ["open eyes", "close eyes", "move eyes"],
-    "mouth": ["open mouth", "show tongue", "speak something"],
-    "face": ["move head", "nod", "swing head"],
-    "hand": ["raise hand", "swing hand", "show a peace sign"]
-    "building": ["rotate building", "glow building", "shrink building", "break building", "swing building", "move building"]
-    "others": ["move object", "move from left to right", "move from right to left", "move from top to bottom", "move from bottom to top"
-}
