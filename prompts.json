@@ -1,0 +1,72 @@
+{
+    "目": [
+        {
+            "label": "開ける",
+            "prompt": "open eyes"
+        },
+        {
+            "label": "閉じる",
+            "prompt": "close eyes"
+        },
+        {
+            "label": "動かす",
+            "prompt": "move eyes"
+        }
+    ],
+    "口": [
+        {
+            "label": "開ける",
+            "prompt": "open mouth"
+        },
+        {
+            "label": "微笑む",
+            "prompt": "smile mouth"
+        },
+        {
+            "label": "舌を出す",
+            "prompt": "show tongue"
+        }
+    ],
+    "顔（頭）": [
+        {
+            "label": "左右に動かす",
+            "prompt": "move head left and right, shake head"
+        },
+        {
+            "label": "うなずく",
+            "prompt": "move head down, take a bow, nod"
+        }
+    ],
+    "手": [
+        {
+            "label": "上げる",
+            "prompt": "raise hand"
+        },
+        {
+            "label": "手を振る",
+            "prompt": "wave hand"
+        },
+        {
+            "label": "ピースサイン",
+            "prompt": "shows a peace sign"
+        }
+    ],
+    "建物": [
+        {
+            "label": "動かす",
+            "prompt": "move building"
+        },
+        {
+            "label": "回転する",
+            "prompt": "rotate building"
+        },
+        {
+            "label": "伸ばす",
+            "prompt": "grow building"
+        },
+        {
+            "label": "縮める",
+            "prompt": "shrink building"
+        }
+    ]
+}
